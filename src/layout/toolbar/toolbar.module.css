@@ -1,0 +1,7 @@
+.toolbarContainer {
+  @apply flex h-[30px] items-center justify-between p-[12px] bg-generalBlue;
+}
+
+.toolbarTitle {
+  @apply font-[24px] font-bold text-[#fff];
+}

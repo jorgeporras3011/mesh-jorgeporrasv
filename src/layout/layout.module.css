@@ -1,0 +1,7 @@
+.layoutContainer {
+  @apply flex h-[100%];
+}
+
+.childrenContainer {
+  @apply p-[12px] bg-childrenColor w-[100%];
+}

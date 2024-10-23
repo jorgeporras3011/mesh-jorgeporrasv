@@ -1,0 +1,11 @@
+.sidebarContent {
+  @apply bg-generalBlue pt-[16px] flex flex-col w-[250px];
+}
+
+.menuItem {
+  @apply h-[16px] p-[14px] cursor-pointer font-bold font-[14px] text-[#fff];
+}
+
+.menuItemSelected {
+  @apply text-[#000] bg-selectedItem;
+}
